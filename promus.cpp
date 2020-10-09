@@ -14,10 +14,10 @@ int main()
         }
         //Conditions to determining prime number or not
         if(value==(number+1)){
-            cout<<"PRIMES";
+            cout<<"No is Prime";
         }
         else{
-            cout<<"NOT PRIMES";
+            cout<<"No is not a Prime";
         }
     return 0;
 }
